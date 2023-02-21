@@ -1,4 +1,6 @@
-### Hi there 👋
+# UniLecs
+
+**unilecs** - 🤘🏻Задачи, головоломки, книги и другие радости программиста.
 
 <!--
 **unilecs/unilecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
